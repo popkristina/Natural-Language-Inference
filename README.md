@@ -5,9 +5,7 @@ Determining relationship between two sentences, where the second sentence can: <
 &emsp;2. contradict the the first sentence, <br />
 &emsp;3. or be neutral to it. <br />
 
-Uni project inspired by the competition:
-
-https://www.kaggle.com/c/contradictory-my-dear-watson
+Uni project inspired by the competition: https://www.kaggle.com/c/contradictory-my-dear-watson
 
 
 #### Some useful links that helped me to understand the concept of natutal language inference: 
