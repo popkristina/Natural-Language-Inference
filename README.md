@@ -10,7 +10,7 @@ Uni project inspired by the competition:
 https://www.kaggle.com/c/contradictory-my-dear-watson
 
 
-Some useful links that helped me to understand the concept of natutal language inference: 
+#### Some useful links that helped me to understand the concept of natutal language inference: 
 
 * Best NLI models and their associated papers: http://nlpprogress.com/english/natural_language_inference.html
 
